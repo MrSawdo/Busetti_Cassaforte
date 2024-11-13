@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Busetti_cassaforte/1.0.0": {
+        "runtime": {
+          "Busetti_cassaforte.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Busetti_cassaforte/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

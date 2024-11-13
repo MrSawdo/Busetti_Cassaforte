@@ -1,0 +1,17 @@
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\bin\Debug\net8.0-windows\Busetti_cassaforte.exe
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\bin\Debug\net8.0-windows\Busetti_cassaforte.deps.json
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\bin\Debug\net8.0-windows\Busetti_cassaforte.runtimeconfig.json
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\bin\Debug\net8.0-windows\Busetti_cassaforte.dll
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\bin\Debug\net8.0-windows\Busetti_cassaforte.pdb
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\obj\Debug\net8.0-windows\Busetti_cassaforte.Form1.resources
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\obj\Debug\net8.0-windows\Busetti_cassaforte.csproj.GenerateResource.cache
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\obj\Debug\net8.0-windows\Busetti_cassaforte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\obj\Debug\net8.0-windows\Busetti_cassaforte.AssemblyInfoInputs.cache
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\obj\Debug\net8.0-windows\Busetti_cassaforte.AssemblyInfo.cs
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\obj\Debug\net8.0-windows\Busetti_cassaforte.csproj.CoreCompileInputs.cache
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\obj\Debug\net8.0-windows\Busetti_cassaforte.sourcelink.json
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\obj\Debug\net8.0-windows\Busetti_cassaforte.dll
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\obj\Debug\net8.0-windows\refint\Busetti_cassaforte.dll
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\obj\Debug\net8.0-windows\Busetti_cassaforte.pdb
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\obj\Debug\net8.0-windows\Busetti_cassaforte.genruntimeconfig.cache
+C:\Users\busetti.21270\Desktop\Busetti_Cassaforte\Busetti_cassaforte\Busetti_cassaforte\obj\Debug\net8.0-windows\ref\Busetti_cassaforte.dll

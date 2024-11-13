@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\busetti.21270\\Desktop\\Busetti_Cassaforte\\Busetti_cassaforte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EEBD42-FA05-4DBA-8F2F-05D67B935E76}|Busetti_cassaforte\\Busetti_cassaforte.csproj|c:\\users\\busetti.21270\\desktop\\busetti_cassaforte\\busetti_cassaforte\\busetti_cassaforte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EEBD42-FA05-4DBA-8F2F-05D67B935E76}|Busetti_cassaforte\\Busetti_cassaforte.csproj|solutionrelative:busetti_cassaforte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EEBD42-FA05-4DBA-8F2F-05D67B935E76}|Busetti_cassaforte\\Busetti_cassaforte.csproj|c:\\users\\busetti.21270\\desktop\\busetti_cassaforte\\busetti_cassaforte\\busetti_cassaforte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9EEBD42-FA05-4DBA-8F2F-05D67B935E76}|Busetti_cassaforte\\Busetti_cassaforte.csproj|solutionrelative:busetti_cassaforte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EEBD42-FA05-4DBA-8F2F-05D67B935E76}|Busetti_cassaforte\\Busetti_cassaforte.csproj|c:\\users\\busetti.21270\\desktop\\busetti_cassaforte\\busetti_cassaforte\\busetti_cassaforte\\cassaforte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EEBD42-FA05-4DBA-8F2F-05D67B935E76}|Busetti_cassaforte\\Busetti_cassaforte.csproj|solutionrelative:busetti_cassaforte\\cassaforte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cassaforte.cs",
+              "DocumentMoniker": "C:\\Users\\busetti.21270\\Desktop\\Busetti_Cassaforte\\Busetti_cassaforte\\Busetti_cassaforte\\Cassaforte.cs",
+              "RelativeDocumentMoniker": "Busetti_cassaforte\\Cassaforte.cs",
+              "ToolTip": "C:\\Users\\busetti.21270\\Desktop\\Busetti_Cassaforte\\Busetti_cassaforte\\Busetti_cassaforte\\Cassaforte.cs",
+              "RelativeToolTip": "Busetti_cassaforte\\Cassaforte.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwGUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:22:48.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\busetti.21270\\Desktop\\Busetti_Cassaforte\\Busetti_cassaforte\\Busetti_cassaforte\\Form1.cs",
+              "RelativeDocumentMoniker": "Busetti_cassaforte\\Form1.cs",
+              "ToolTip": "C:\\Users\\busetti.21270\\Desktop\\Busetti_Cassaforte\\Busetti_cassaforte\\Busetti_cassaforte\\Form1.cs",
+              "RelativeToolTip": "Busetti_cassaforte\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:17:47.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\busetti.21270\\Desktop\\Busetti_Cassaforte\\Busetti_cassaforte\\Busetti_cassaforte\\Form1.cs",
+              "RelativeDocumentMoniker": "Busetti_cassaforte\\Form1.cs",
+              "ToolTip": "C:\\Users\\busetti.21270\\Desktop\\Busetti_Cassaforte\\Busetti_cassaforte\\Busetti_cassaforte\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Busetti_cassaforte\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:17:29.343Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
